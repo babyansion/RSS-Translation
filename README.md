@@ -11,7 +11,8 @@
 
 ## 已转换翻译源
 
- - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
+ - source001 [https://www.reuters.com/world/china/](https://www.reuters.com/world/china/) -> [Reuters_rss.xml](rss/Reuters_rss.xml)
+ - source002 [https://feedx.net/rss/economist.xml](https://feedx.net/rss/economist.xml) -> [Economist.xml](rss/Economist.xml)
+ - source003 [https://feedx.net/rss/reutersen.xml](https://feedx.net/rss/reutersen.xml) -> [Reutersen.xml](rss/Reutersen.xml)
  - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
+ - source005 [https://feedx.net/rss/hbr.xml](https://feedx.net/rss/hbr.xml) -> [HarvardBusinessReview .xml](rss/HarvardBusinessReview .xml)
